@@ -1,0 +1,26 @@
+.btn4{
+    height: 30px;
+    width: 200px;
+    border-bottom: 5px;
+    border-color: red;
+    background-color: rgb(12, 37, 66);
+    color: red;
+    margin-left: 200px;
+    margin-right: 20px;
+}
+
+.btn5{
+    height: 30px;
+    width: 200px;
+    border-bottom: 5px;
+    border-color: rgb(106, 174, 230);
+    background-color: rgb(12, 37, 66);
+    color:  rgb(106, 174, 230);
+    margin-left: 100px;
+    margin-right: 20px;
+}
+
+span{
+    color: white;
+    margin-left: 400px;
+}

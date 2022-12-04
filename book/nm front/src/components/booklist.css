@@ -1,0 +1,35 @@
+.main{
+    background-color: rgb(12, 37, 66);
+    height: 1000px;
+    width: 90%;
+}
+
+h1{
+    text-align: center;
+    color: white;
+}
+.btn1{
+    margin-left: 750px;
+    border-radius: 3px;
+    margin-top: 10px;
+    
+    border-color: rgb(196, 171, 28);
+    background-color: rgb(196, 171, 28);
+    height: 30px;
+    width: 200px;
+}
+
+.bookdata{
+    float: left;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+
+.publisher{
+    color: white;
+}
+.title{
+    color: rgb(104, 104, 228);
+}

@@ -1,0 +1,44 @@
+.main{
+    background-color: rgb(12, 37, 66);
+    
+}
+
+
+.addbook
+{
+    text-align: center;
+    color: white;
+   
+    
+}
+input{
+    background-color: beige;
+    border-radius: 5px;
+    margin-left: 400px;
+    margin-top: 10px;
+    height: 30px;
+    width: 400px;
+
+}
+.btn3{
+    margin-left: 400px;
+    border-radius: 3px;
+    background-color: rgb(12, 37, 66);
+    color: rgb(196, 171, 28);
+    border-color: rgb(196, 171, 28);
+    margin-top: 10px;
+    margin-bottom: 10px;
+    height: 30px;
+    width: 400px;
+    
+}
+.btn2{
+    margin-left: 150px;
+    border-radius: 3px;
+    margin-top: 10px;
+    color: rgb(196, 171, 28);
+    border-color: rgb(196, 171, 28);
+    background-color: rgb(12, 37, 66);
+    height: 30px;
+    width: 200px;
+}
